@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prodotto1",
+    "nome": "nutella 200g",
+    "origine": "itlia",
+    "carbon_footprint": "99887",
+    "bio": false,
+    "prezzo": 6.32
+  },
+  {
+    "id": "prodotto2",
+    "nome": "nutella 100g",
+    "origine": "itlia",
+    "carbon_footprint": "99887",
+    "bio": false,
+    "prezzo": 3.32
+  },
+  {
+    "id": "prodotto3",
+    "nome": "biscotti bio abc",
+    "origine": "italia",
+    "carbon_footprint": "99887",
+    "bio": true,
+    "prezzo": 6.32
+  }
+]

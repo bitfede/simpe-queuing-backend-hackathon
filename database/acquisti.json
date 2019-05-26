@@ -1,0 +1,38 @@
+[
+  {
+    "id_consumatore": "12345",
+    "data": "22-may-2019",
+    "ora": "15:30",
+    "negozio": "negozio-2",
+    "spesa": [
+      { "id": "prodotto1" },
+      { "id": "prodotto2" },
+      { "id": "prodotto3" },
+      { "id": "prodotto4" }
+    ]
+  },
+  {
+    "id_consumatore": "12345",
+    "data": "22-may-2019",
+    "ora": "15:30",
+    "negozio": "negozio-2",
+    "spesa": [
+      { "id": "prodotto1" },
+      { "id": "prodotto2" },
+      { "id": "prodotto3" },
+      { "id": "prodotto4" }
+    ]
+  },
+  {
+    "id_consumatore": "12345",
+    "data": "22-may-2019",
+    "ora": "15:30",
+    "negozio": "negozio-2",
+    "spesa": [
+      { "id": "prodotto1" },
+      { "id": "prodotto2" },
+      { "id": "prodotto3" },
+      { "id": "prodotto4" }
+    ]
+  }
+]
